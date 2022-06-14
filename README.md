@@ -8,3 +8,8 @@ https://phyozayyyar.github.io/Colorful-Myanmar/
 # ScreenShot
 
 ![HomePage](https://user-images.githubusercontent.com/106876919/173472803-e10fe00e-5681-4a81-9d00-aeb0fc30e477.png)
+
+# Run Project in Local Server
+clone Project
+  git clone https://github.com/PhyoZayYyar/Colorful-Myanmar.git
+  
